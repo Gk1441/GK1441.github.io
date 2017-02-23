@@ -3,5 +3,18 @@ h1, h3 {
 }
 
 p {
-    color: rgb(72, 250, 0)
+    color: rgb(72, 250, 0);
+}
+
+a {
+    color: rgb(255, 176, 0);
+}
+
+li {
+    color: rgb(126, 242, 31);
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(210, 80, 1);
 }
