@@ -55,7 +55,7 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
-img {
+img, a {
     margin-left: auto;
     margin-right: auto;
 }
